@@ -1,6 +1,6 @@
-# IA_Questoes
+# IA_Questões
 
-IA_Questoes é uma aplicação web desenvolvida para ajudar no estudo para concursos públicos e certificações de TI, utilizando para isso questões geradas por inteligência artificial. O sistema permite que os usuários respondam a questões filtradas por assunto e palavra-chave, fornecendo em seguida a resolução da mesma. Os assuntos das questões abrangem algumas das certificações de TI mais populares e das matérias mais cobradas em concursos públicos de TI.
+IA_Questões é uma aplicação web desenvolvida para auxiliar no estudo para concursos públicos e certificações de TI, utilizando para isso questões geradas por inteligência artificial. O sistema permite que os usuários respondam a questões filtradas por assunto e palavra-chave, fornecendo em seguida a resolução da mesma. Os assuntos das questões abrangem algumas das certificações de TI mais populares e das matérias mais cobradas em concursos públicos de TI.
 
 Para testar a aplicação, acesse https://ia-questoes.vercel.app/
 
