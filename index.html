@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IA_Questões - Estude para concursos públicos e certificações de TI por questões geradas por inteligência artificial</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header>
+    <h1>IA_Questões</h1>
+    <h2>Estude para concursos públicos e certificações de TI por questões geradas por inteligência artificial</h2>
+  </header>
+
+  <main>
+    <section class="filter-section">
+      <form id="filter-form">
+        <select id="assunto" name="assunto">
+          <!-- Opções de assunto serão carregadas dinamicamente -->
+        </select>
+
+        <input type="text" id="keyword" name="keyword" placeholder="Digite uma palavra-chave">
+
+        <button type="submit">Filtrar</button>
+      </form>
+    </section>
+
+    <section id="questoes-section">
+      <!-- As questões serão carregadas aqui -->
+    </section>
+
+    <div id="pagination">
+      <!-- Controles de paginação -->
+    </div>
+  </main>
+
+  <footer>
+    <p>IAConcursos. Powered by Google Gemini</p>
+  </footer>
+
+  <script src="dados.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
